@@ -14,3 +14,6 @@ This software is free to use under the zLib license.
 See the [zLib][] license for more information.
 
 [zLib]: http://www.zlib.net/zlib_license.html
+
+I used the layout from pure css and change a couple things.
+This is an example of a landing page for a Dog Owner Meetup Site
